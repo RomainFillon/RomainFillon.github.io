@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome ! I am a PhD candidate in Economics at the Université Paris-Saclay, France, within [CIRED](http://www.centre-cired.fr/en/) and [PSAE](https://www6.versailles-grignon.inrae.fr/psae_eng/) research units. Here is my [CV](https://RomainFillon.github.io/files/CV_academique.pdf). From September 2023 to January 2024, I am visiting Columbia University, USA, hosted by Gernot Wagner and financed by a Fulbright grant.
+Welcome ! I am a PhD candidate in Economics at Université Paris-Saclay, France, within [CIRED](http://www.centre-cired.fr/en/) and [PSAE](https://www6.versailles-grignon.inrae.fr/psae_eng/) research units. Here is my [CV](https://RomainFillon.github.io/files/CV_academique.pdf). From September 2023 to January 2024, I am visiting Columbia University, USA, hosted by Gernot Wagner and financed by a Fulbright grant.
 
 I work on climate change and I am particularly interested in climate tipping points and social preferences under risk and uncertainty. I also work with quantitative spatial models. Feel free to contact me : rfillon@protonmail.com !
 
