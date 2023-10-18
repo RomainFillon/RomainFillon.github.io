@@ -13,7 +13,7 @@ Welcome ! I am a PhD candidate in Economics at the Université Paris-Saclay, Fra
 I work on climate change and I am particularly interested in climate tipping points and social preferences under risk and uncertainty. I also work with quantitative spatial models. Feel free to contact me : rfillon@protonmail.com !
 
 Work in progress 
-+ R. Fillon, G. Wagner, 2023. "Shift - a new layer of climate-economic uncertainty", in progress
++ R. Fillon, G. Wagner, 2023. "A new layer of climate-economic uncertainty", in progress
 + R. Fillon, 2023. "Expectational errors in a dynamic spatial economy - an application to climate change", in progress.
 + R. Fillon, T. Gasser, C. Guivarch, P. Ciais, 2023. "Alternative ethical stances on a possible Amazon rainforest dieback", in progress.
 + R. Fillon, T. Gasser, C. Guivarch, P. Ciais, 2023. "The uncertain fate of the Amazon rainforest", draft available upon request.
