@@ -12,13 +12,9 @@ Welcome ! I am a PhD candidate in Economics at Université Paris-Saclay, France,
 
 My research focuses on climate change and climate uncertainties. I work with dynamic stochastic models and quantitative spatial approaches. 
 
-Work in progress 
-+ R. Fillon, "Regional economic activity shapes regional climate impacts" (JMP)
-
-Working papers (available upon request)
-+ R. Fillon, M. Linsenmeier, G. Wagner, "Climate shift uncertainty and economic damages"
-+ R. Fillon, C. Guivarch, "Optimal policy in an interconnected and stochastic climate"
-
-Published work
+Research work 
++ R. Fillon, "Regional economic activity shapes regional climate impacts" (JMP, work in progress)
++ R. Fillon, M. Linsenmeier, G. Wagner, "Climate shift uncertainty and economic damages" (available upon request)
++ R. Fillon, C. Guivarch, "Optimal policy in an interconnected and stochastic climate" (available upon request)
 + R. Fillon, C. Guivarch, N. Taconet, 2023. ["Optimal climate policy under tipping risk and temporal risk aversion"](https://www.sciencedirect.com/science/article/pii/S0095069623000682), *Journal* *of* *Environmental* *Economics* *and* *Management*.
 Codes available here: [DSCE](https://github.com/CIRED/DSCE/tree/main). [Last version](https://RomainFillon.github.io/files/editable_paper.pdf).
