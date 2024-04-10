@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome ! I am a PhD candidate in Economics at Université Paris-Saclay, France, within [CIRED](http://www.centre-cired.fr/en/) and [PSAE](https://www6.versailles-grignon.inrae.fr/psae_eng/) research units. Here is my [CV](https://RomainFillon.github.io/files/academic_CV_2023.pdf) and <a href="mailto:rfillon@protonmail.com">e-mail</a>. 
+Welcome ! I am a PhD candidate in Economics at Université Paris-Saclay, France, within [CIRED](http://www.centre-cired.fr/en/) and [PSAE](https://www6.versailles-grignon.inrae.fr/psae_eng/) research units. Here are my [CV](https://RomainFillon.github.io/files/academic_CV_2023.pdf) and <a href="mailto:rfillon@protonmail.com">e-mail</a>. 
 
 My research focuses on climate change and climate uncertainties. I work with dynamic stochastic models and quantitative spatial approaches. 
 
