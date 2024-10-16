@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome ! I am a fourth-year PhD candidate in Economics at Université Paris-Saclay ([CIRED](http://www.centre-cired.fr/en/), [PSAE](https://www6.versailles-grignon.inrae.fr/psae_eng/)), France, currently **on the 2024-2025 job market**. Here are my [CV](https://RomainFillon.github.io/files/academic_CV_2023.pdf) and <a href="mailto:rfillon@protonmail.com">e-mail</a>. 
 
-My research focuses on climate change and climate uncertainties, along three main dimensions: risk (different possible states of the world), space (different places over the world), time (different periods over time).   I work with dynamic quantitative spatial approaches (e.g. JMP 1 - time & space) and dynamic stochastic models (e.g. JMP 2 - time & risk).
+My research focuses on climate change and climate uncertainties, along three main dimensions: risk, space and time. I work with dynamic quantitative spatial approaches (JMP 1 - time & space) and dynamic stochastic models (JMP 2 - time & risk).
 
 Research work 
 + Fillon, "The biophysical channels of climate impacts" **(JMP 1 - space)** [[pdf](https://RomainFillon.github.io/files/JMP_spatial.pdf)]
