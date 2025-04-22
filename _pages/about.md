@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome ! I successfully defended my PhD in Economics at Université Paris-Saclay ([CIRED](http://www.centre-cired.fr/en/), [PSAE](https://www6.versailles-grignon.inrae.fr/psae_eng/)), France, on December 9, 2024. Here are the [manuscript](https://RomainFillon.github.io/files/thesis_RF2.pdf) and the [presentation slides](https://RomainFillon.github.io/files/soutenance_rfillon_online.pdf). Here are my [CV](https://RomainFillon.github.io/files/academic_CV_2024.pdf) and <a href="mailto:rfillon@protonmail.com">e-mail</a>. 
 
-I am currently **on the 2024-2025 job market**. Currently a consultant at the World Bank, I am seeking a postdoctoral position or an assistant professorship starting in the fall of 2025 in London and its surrounding areas.
+I am currently **on the job market**. Currently a consultant at the World Bank, I am seeking a postdoctoral position or an assistant professorship starting in the fall of 2025 in London and its surrounding areas.
 
 My research focuses on climate change and climate uncertainties, along three main dimensions: risk, space and time. I work with dynamic quantitative spatial approaches (JMP 1 - time & space) and dynamic stochastic models (JMP 2 - time & risk).
 
