@@ -21,5 +21,5 @@ Research work
 + Fillon, <a href="https://www.centre-cired.fr/celine-guivarch/" style="color: black;">Guivarch</a>, <a href="https://www.nicolastaconet.com/home" style="color: black;">Taconet</a>, 2023. ["Optimal climate policy under tipping risk and temporal risk aversion"](https://www.sciencedirect.com/science/article/pii/S0095069623000682), *Journal* *of* *Environmental* *Economics* *and* *Management*, [[code](https://github.com/CIRED/DSCE/tree/main), [coverage](https://e-axes.org/research/optimal-climate-policies-with-tipping-and-temporal-risk/), [pdf](https://RomainFillon.github.io/files/editable_paper.pdf)].
 
 Early stage
-+ Fillon, "Place-based environmental policy. An application to the EU", 2025
-+ Fillon, <a href="https://scholar.google.fr/citations?user=HyoU4ZwAAAAJ&hl=fr&oi=ao" style="color: black;">Avner</a>,<a href="https://scholar.google.fr/citations?user=7xxEWRkAAAAJ&hl=fr&oi=ao" style="color: black;">Hallegatte</a>, "Heterogenous dividend properties of weather information", 2025
++ Fillon, "Place-based *ex ante* environmental policy against climate risk in the European Union", 2025
++ Fillon, <a href="https://scholar.google.fr/citations?user=HyoU4ZwAAAAJ&hl=fr&oi=ao" style="color: black;">Avner</a>, <a href="https://scholar.google.fr/citations?user=7xxEWRkAAAAJ&hl=fr&oi=ao" style="color: black;">Hallegatte</a>, "Heterogenous dividend properties of weather information", 2025
