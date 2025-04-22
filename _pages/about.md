@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome ! I am a macroeconomist with a PhD  ([manuscript](https://RomainFillon.github.io/files/thesis_RF2.pdf), [slides](https://RomainFillon.github.io/files/soutenance_rfillon_online.pdf)) obtained from Université Paris-Saclay ([CIRED](http://www.centre-cired.fr/en/), [PSAE](https://www6.versailles-grignon.inrae.fr/psae_eng/)) in December 2024. Here are my [CV](https://RomainFillon.github.io/files/academic_CV_2024.pdf) and <a href="mailto:rfillon@protonmail.com">e-mail</a>.
+Welcome ! I am a macroeconomist with a PhD  ([manuscript](https://RomainFillon.github.io/files/thesis_RF2.pdf), [slides](https://RomainFillon.github.io/files/soutenance_rfillon_online.pdf)) obtained from Université Paris-Saclay ([CIRED](http://www.centre-cired.fr/en/), [PSAE](https://www6.versailles-grignon.inrae.fr/psae_eng/)) in December 2024. Here are my [CV](https://RomainFillon.github.io/files/academic_CV_2024.pdf) and <a href="mailto:rfillon@protonmail.com">e-mail</a>. My research focuses on climate change and climate uncertainties. I work with dynamic quantitative spatial approaches (JMP 1 - time & space) and dynamic stochastic models (JMP 2 - time & risk).
 
 I am **on the job market**. Currently a consultant at the World Bank, I am seeking an academic position starting in Fall 2025 in London and its surrounding areas.
-
-My research focuses on climate change and climate uncertainties, along three main dimensions: risk, space and time. I work with dynamic quantitative spatial approaches (JMP 1 - time & space) and dynamic stochastic models (JMP 2 - time & risk).
 
 Research work 
 + Fillon, "The biophysical channels of climate impacts" **(JMP 1 - space)** [[pdf](https://RomainFillon.github.io/files/JMP_spatial.pdf)]
