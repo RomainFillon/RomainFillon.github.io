@@ -10,7 +10,9 @@ redirect_from:
 
 Welcome ! I am a macroeconomist with a PhD ([manuscript](https://RomainFillon.github.io/files/thesis_RF2.pdf), [slides](https://RomainFillon.github.io/files/soutenance_rfillon_online.pdf)) from Université Paris-Saclay ([CIRED](http://www.centre-cired.fr/en/), [PSAE](https://www6.versailles-grignon.inrae.fr/psae_eng/)), awarded in December 2024. You can find my [CV](https://RomainFillon.github.io/files/academic_CV_2025.pdf) and contact me via <a href="mailto:rfillon@protonmail.com">e-mail</a>. My research focuses on climate change and climate uncertainties. I use dynamic quantitative spatial models (JMP 1 - time & space) and dynamic stochastic models (JMP 2 - time & risk).
 
-I am currently **on the academic job market**. I work as a consultant at the World Bank and am seeking a position starting in Fall 2025, ideally in London or nearby. I am delighted to be a co-recipient of the [**2025 Award for Best Doctoral Dissertation in Environmental and Resource Economics**](https://www.eaere.org/best-european-doctoral-dissertation-award/) from the European Association of Environmental and Resource Economists (EAERE). 
+I am currently **on the academic job market**. I work as a consultant at the World Bank and am seeking a position starting in Fall 2025, ideally in London or nearby. 
+
+I am delighted to be a co-recipient of the [**2025 Award for Best Doctoral Dissertation in Environmental and Resource Economics**](https://www.eaere.org/best-european-doctoral-dissertation-award/) from the European Association of Environmental and Resource Economists (EAERE). 
 
 Research work 
 + Fillon, "The biophysical channels of climate impacts" **(JMP 1 - space)** [[pdf](https://RomainFillon.github.io/files/JMP_spatial.pdf)]
