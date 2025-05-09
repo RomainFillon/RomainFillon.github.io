@@ -12,7 +12,7 @@ Welcome ! I am a macroeconomist with a PhD ([manuscript](https://RomainFillon.gi
 
 I am currently **on the academic job market**. I work as a consultant at the World Bank and am seeking a position starting in Fall 2025, ideally in London or nearby. 
 
-I am delighted to be a co-recipient of the [**2025 Award for Best Doctoral Dissertation in Environmental and Resource Economics**](https://www.eaere.org/best-european-doctoral-dissertation-award/) from the European Association of Environmental and Resource Economists (EAERE). 
+I am delighted to be a co-recipient of the [**2025 Award for Best Doctoral Dissertation in Environmental and Resource Economics**](https://www.eaere.org/best-doctoral-winners-2025/) from the European Association of Environmental and Resource Economists (EAERE). 
 
 Research work 
 + Fillon, "The biophysical channels of climate impacts" **(JMP 1 - space)** [[pdf](https://RomainFillon.github.io/files/JMP_spatial.pdf)]
