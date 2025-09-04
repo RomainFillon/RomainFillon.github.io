@@ -15,11 +15,12 @@ I am currently **on the academic job market**. I work as a consultant at the Wor
 I am delighted to be a co-recipient of the [**2025 Award for Best Doctoral Dissertation in Environmental and Resource Economics**](https://www.eaere.org/best-european-doctoral-dissertation-award/) from the European Association of Environmental and Resource Economists (EAERE). 
 
 Research work 
-+ Fillon, "The biophysical channels of climate impacts" **(JMP 1 - space)** [[pdf](https://RomainFillon.github.io/files/JMP_spatial.pdf)]
++ Fillon, "The biophysical channels of climate impacts" **(JMP 1 - space)** [[pdf](https://RomainFillon.github.io/files/JMP_spatial.pdf), updated version in prep.]
 + Fillon, <a href="https://www.centre-cired.fr/celine-guivarch/" style="color: black;">Guivarch</a>, "The need for regulation of climate subsystems" **(JMP 2 - risk)** [[pdf](https://RomainFillon.github.io/files/JMP_risk.pdf)]
 + Fillon, <a href="https://mlinsenmeier.com/" style="color: black;">Linsenmeier</a>, <a href="https://gwagner.com" style="color: black;">Wagner</a>, "Climate shift uncertainty and economic damages" [[pdf](https://RomainFillon.github.io/files/Paper3.pdf)]
 + Fillon, <a href="https://scholar.google.fr/citations?user=HyoU4ZwAAAAJ&hl=fr&oi=ao" style="color: black;">Avner</a>, <a href="https://scholar.google.fr/citations?user=7xxEWRkAAAAJ&hl=fr&oi=ao" style="color: black;">Hallegatte</a>, "Heterogenous dividend properties of weather information" [available upon request]
 + Fillon, <a href="https://www.centre-cired.fr/celine-guivarch/" style="color: black;">Guivarch</a>, <a href="https://www.nicolastaconet.com/home" style="color: black;">Taconet</a>, 2023. ["Optimal climate policy under tipping risk and temporal risk aversion"](https://www.sciencedirect.com/science/article/pii/S0095069623000682), *Journal* *of* *Environmental* *Economics* *and* *Management*, [[code](https://github.com/CIRED/DSCE/tree/main), [coverage](https://e-axes.org/research/optimal-climate-policies-with-tipping-and-temporal-risk/), [pdf](https://RomainFillon.github.io/files/editable_paper.pdf)].
 
 Early stage
++ Fillon, "Revisiting the Distribution of Climate Damages in the Global Quantitative Spatial Literature"  
 + Fillon, "Place-based *ex ante* environmental policy against climate risk in the EU"
