@@ -15,7 +15,7 @@ I am currently **on the academic job market**. I work as a consultant at the Wor
 I am delighted to be a co-recipient of the [**2025 Award for Best Doctoral Dissertation in Environmental and Resource Economics**](https://www.eaere.org/best-european-doctoral-dissertation-award/) from the European Association of Environmental and Resource Economists (EAERE). 
 
 Research work 
-+ Fillon, "The biophysical channels of climate impacts" **(JMP 1 - space)** [[pdf](https://RomainFillon.github.io/files/JMP_spatial.pdf), updated version in prep.]
++ Fillon, "The biophysical channels of climate impacts" **(JMP 1 - space)** [[pdf](https://RomainFillon.github.io/files/JMP_spatial.pdf), updates in prep.]
 + Fillon, <a href="https://www.centre-cired.fr/celine-guivarch/" style="color: black;">Guivarch</a>, "The need for regulation of climate subsystems" **(JMP 2 - risk)** [[pdf](https://RomainFillon.github.io/files/JMP_risk.pdf)]
 + Fillon, <a href="https://mlinsenmeier.com/" style="color: black;">Linsenmeier</a>, <a href="https://gwagner.com" style="color: black;">Wagner</a>, "Climate shift uncertainty and economic damages" [[pdf](https://RomainFillon.github.io/files/Paper3.pdf)]
 + Fillon, <a href="https://scholar.google.fr/citations?user=HyoU4ZwAAAAJ&hl=fr&oi=ao" style="color: black;">Avner</a>, <a href="https://scholar.google.fr/citations?user=7xxEWRkAAAAJ&hl=fr&oi=ao" style="color: black;">Hallegatte</a>, "Heterogenous dividend properties of weather information" [available upon request]
