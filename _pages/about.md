@@ -22,5 +22,5 @@ Research work
 + Fillon, <a href="https://www.centre-cired.fr/celine-guivarch/" style="color: black;">Guivarch</a>, <a href="https://www.nicolastaconet.com/home" style="color: black;">Taconet</a>, 2023. ["Optimal climate policy under tipping risk and temporal risk aversion"](https://www.sciencedirect.com/science/article/pii/S0095069623000682), *Journal* *of* *Environmental* *Economics* *and* *Management* <sub> [[code](https://github.com/CIRED/DSCE/tree/main), [coverage](https://e-axes.org/research/optimal-climate-policies-with-tipping-and-temporal-risk/), [pdf](https://RomainFillon.github.io/files/editable_paper.pdf)] </sub> 
 
 Early stage
-+ Fillon, "Revisiting the Distribution of Climate Damages in the Global Quantitative Spatial Literature"  
++ Fillon, "Revisiting the Distribution of Climate Damages in the Quantitative Spatial Literature"  
 + Fillon, "Place-based *ex ante* environmental policy against climate risk in the EU"
