@@ -12,7 +12,7 @@ Welcome ! I am a macroeconomist with a PhD ([manuscript](https://RomainFillon.gi
 
 I am currently **on the academic job market**. I work as a consultant at the World Bank and am seeking a position, ideally in London (or nearby) or in Paris. 
 
-I am delighted to be a co-recipient of the [**2025 Award for Best Doctoral Dissertation in Environmental and Resource Economics in Europe**](https://www.eaere.org/best-european-doctoral-dissertation-award/) from the European Association of Environmental and Resource Economists (EAERE). I was also honored to receive the [**2025 First Prize for the best doctoral dissertation in economics in the Paris area**](https://www.sorbonne.fr/la-chancellerie-des-universites-de-paris/v2la-chancellerie-des-universites-de-paris-recompense-lexcellence-universitaire-et-propose-des-prix/les-prix-universitaires/), awarded by the Chancellerie de Paris.
+I am delighted to be a co-recipient of the [**2025 Award for Best Doctoral Dissertation in Environmental and Resource Economics in Europe**](https://www.eaere.org/best-european-doctoral-dissertation-award/) from the European Association of Environmental and Resource Economists (EAERE). I was also honored to receive the [**2025 First Prize for the Best Doctoral Dissertation in Economics in the Paris area**](https://www.sorbonne.fr/la-chancellerie-des-universites-de-paris/v2la-chancellerie-des-universites-de-paris-recompense-lexcellence-universitaire-et-propose-des-prix/les-prix-universitaires/), awarded by the Chancellerie de Paris.
 
 Research work 
 + Fillon, "The biophysical channels of climate impacts" **(JMP 1 - space)** <sub> [[pdf](https://RomainFillon.github.io/files/JMP_spatial.pdf), updates in prep.] </sub>
