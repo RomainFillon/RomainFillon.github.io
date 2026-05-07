@@ -14,14 +14,14 @@ I currently work as a consultant at the World Bank and am seeking an academic po
 
 I am delighted to be a co-recipient of the [2025 Award for Best Doctoral Dissertation in Environmental and Resource Economics in Europe](https://www.eaere.org/best-european-doctoral-dissertation-award/) and the [2025 First Prize for the Best Doctoral Dissertation in Economics in the Paris area](https://www.sorbonne.fr/la-chancellerie-des-universites-de-paris/v2la-chancellerie-des-universites-de-paris-recompense-lexcellence-universitaire-et-propose-des-prix/les-prix-universitaires/).
 
-Research work 
+Research work  
 + Fillon, "The biophysical channels of climate impacts" <sub> [[pdf](https://RomainFillon.github.io/files/JMP_spatial.pdf), updates in prep.] </sub>
 + Fillon, <a href="https://www.centre-cired.fr/celine-guivarch/" style="color: black;">Guivarch</a>, "Valuing climate subsystems: an application to the Amazon rainforest"  <sub> [[pdf](https://RomainFillon.github.io/files/JMP_risk.pdf)] </sub>
 + Fillon, <a href="https://mlinsenmeier.com/" style="color: black;">Linsenmeier</a>, <a href="https://gwagner.com" style="color: black;">Wagner</a>, "Climate shift uncertainty and economic damages" <sub> [[code](https://github.com/RomainFillon/climateshift/tree/main), [pdf](https://www.ifo.de/en/cesifo/publications/2025/working-paper/climate-shift-uncertainty-and-economic-damages), submitted] </sub>
 + Fillon, <a href="https://scholar.google.fr/citations?user=HyoU4ZwAAAAJ&hl=fr&oi=ao" style="color: black;">Avner</a>, <a href="https://scholar.google.fr/citations?user=7xxEWRkAAAAJ&hl=fr&oi=ao" style="color: black;">Hallegatte</a>, "Risk Premia, Liquidity, and Policy Non-Equivalence in Disaster Management" <sub> [upon request] </sub>
 + Fillon, <a href="https://www.centre-cired.fr/celine-guivarch/" style="color: black;">Guivarch</a>, <a href="https://www.nicolastaconet.com/home" style="color: black;">Taconet</a>, 2023. ["Optimal climate policy under tipping risk and temporal risk aversion"](https://www.sciencedirect.com/science/article/pii/S0095069623000682), *Journal* *of* *Environmental* *Economics* *and* *Management* <sub> [[code](https://github.com/CIRED/DSCE/tree/main), [coverage](https://e-axes.org/research/optimal-climate-policies-with-tipping-and-temporal-risk/), [pdf](https://RomainFillon.github.io/files/editable_paper.pdf)] </sub> 
 
-Early stage
+Work in progress  
 + Fillon, "Revisiting the global distribution of climate damages"  
 + Fillon, "The spatial climate risk premium: an application to Europe"
 + Fillon, "Distributional spatial integrated assessment models: an application to Europe"
