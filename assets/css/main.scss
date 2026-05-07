@@ -41,6 +41,7 @@
 @import "print";
 
 /* Custom overrides */
-html {
-  font-size: 12px !important;
+html,
+html body {
+  font-size: 14px !important;
 }
