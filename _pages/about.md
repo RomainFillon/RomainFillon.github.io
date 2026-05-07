@@ -24,3 +24,6 @@ Research work
 Early stage
 + Fillon, "Revisiting the global distribution of climate damages"  
 + Fillon, "The spatial climate risk premium: an application to Europe"
++ Fillon, "Distributional spatial integrated assessment models: an application to Europe"
++ Fillon, "The biodiversity multiplier: spatial heterogeneity in the social cost of carbon"
++ Fillon, "Universality classes for the social cost of carbon near climate tipping points"  
