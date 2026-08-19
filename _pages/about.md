@@ -10,11 +10,11 @@ redirect_from:
 
 Welcome ! I am a macroeconomist with a PhD ([manuscript](https://RomainFillon.github.io/files/thesis_RF2.pdf), [slides](https://RomainFillon.github.io/files/soutenance_rfillon_online.pdf)) from Université Paris-Saclay ([CIRED](http://www.centre-cired.fr/en/), [PSAE](https://www6.versailles-grignon.inrae.fr/psae_eng/)), awarded in December 2024. You can find my [CV](https://RomainFillon.github.io/files/academic_CV_2025.pdf) and contact me via <a href="mailto:rfillon@protonmail.com">e-mail</a>. My research focuses on climate change and climate uncertainties. I use dynamic quantitative spatial models and dynamic stochastic models.
 
-I currently work as a consultant at the World Bank and am seeking an academic position, preferably in London or Paris.
+I currently work as a consultant at the World Bank and am seeking an academic position.
 
 I am delighted to be a co-recipient of the [2025 Award for Best Doctoral Dissertation in Environmental and Resource Economics in Europe](https://www.eaere.org/best-european-doctoral-dissertation-award/) and the [2025 First Prize for the Best Doctoral Dissertation in Economics in the Paris area](https://www.sorbonne.fr/la-chancellerie-des-universites-de-paris/v2la-chancellerie-des-universites-de-paris-recompense-lexcellence-universitaire-et-propose-des-prix/les-prix-universitaires/).
 
-JMP 
+Job Market Paper
 + Fillon, "The spatial climate risk premium: an application to Europe" (available soon)
 
 Research work  
