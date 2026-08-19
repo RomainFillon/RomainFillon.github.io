@@ -15,7 +15,7 @@ I currently work as a consultant at the World Bank and am seeking an academic po
 I am delighted to be a co-recipient of the [2025 Award for Best Doctoral Dissertation in Environmental and Resource Economics in Europe](https://www.eaere.org/best-european-doctoral-dissertation-award/) and the [2025 First Prize for the Best Doctoral Dissertation in Economics in the Paris area](https://www.sorbonne.fr/la-chancellerie-des-universites-de-paris/v2la-chancellerie-des-universites-de-paris-recompense-lexcellence-universitaire-et-propose-des-prix/les-prix-universitaires/).
 
 JMP 
-+ Fillon, "The spatial climate risk premium: an application to Europe"
++ Fillon, "The spatial climate risk premium: an application to Europe" (available soon)
 
 Research work  
 + Fillon, <a href="https://www.centre-cired.fr/celine-guivarch/" style="color: black;">Guivarch</a>, "Valuing climate subsystems: an application to the Amazon rainforest"  <sub> [[code](https://github.com/RomainFillon/subsystem), [pdf](https://RomainFillon.github.io/files/JMP_risk.pdf), submitted] </sub>
