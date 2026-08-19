@@ -20,12 +20,12 @@ JMP
 Research work  
 + Fillon, <a href="https://www.centre-cired.fr/celine-guivarch/" style="color: black;">Guivarch</a>, "Valuing climate subsystems: an application to the Amazon rainforest"  <sub> [[code](https://github.com/RomainFillon/subsystem), [pdf](https://RomainFillon.github.io/files/JMP_risk.pdf), submitted] </sub>
 + Fillon, <a href="https://mlinsenmeier.com/" style="color: black;">Linsenmeier</a>, <a href="https://gwagner.com" style="color: black;">Wagner</a>, "Climate shift uncertainty and economic damages" <sub> [[code](https://github.com/RomainFillon/climateshift/tree/main), [pdf](https://www.ifo.de/en/cesifo/publications/2025/working-paper/climate-shift-uncertainty-and-economic-damages), submitted] </sub>
-+ Fillon, <a href="https://scholar.google.fr/citations?user=HyoU4ZwAAAAJ&hl=fr&oi=ao" style="color: black;">Avner</a>, <a href="https://scholar.google.fr/citations?user=7xxEWRkAAAAJ&hl=fr&oi=ao" style="color: black;">Hallegatte</a>, "Risk Premia, Liquidity, and Policy Non-Equivalence in Disaster Management" <sub> [upon request] </sub>
-+ Fillon, "The Marginal Value of Control near a Collapsing Stochastic Boundary"  <sub> [upon request] </sub>
++ Fillon, <a href="https://scholar.google.fr/citations?user=HyoU4ZwAAAAJ&hl=fr&oi=ao" style="color: black;">Avner</a>, <a href="https://scholar.google.fr/citations?user=7xxEWRkAAAAJ&hl=fr&oi=ao" style="color: black;">Hallegatte</a>, "Risk premia, liquidity, and policy non-equivalence in disaster management" <sub> [upon request] </sub>
++ Fillon, "The marginal value of control near a collapsing stochastic boundary"  <sub> [upon request] </sub>
 + Fillon, "Revisiting the global distribution of climate damages"  <sub> [upon request] </sub>
 + Fillon, <a href="https://www.centre-cired.fr/celine-guivarch/" style="color: black;">Guivarch</a>, <a href="https://www.nicolastaconet.com/home" style="color: black;">Taconet</a>, 2023. ["Optimal climate policy under tipping risk and temporal risk aversion"](https://www.sciencedirect.com/science/article/pii/S0095069623000682), *Journal* *of* *Environmental* *Economics* *and* *Management* <sub> [[code](https://github.com/CIRED/DSCE/tree/main), [coverage](https://e-axes.org/research/optimal-climate-policies-with-tipping-and-temporal-risk/), [pdf](https://RomainFillon.github.io/files/editable_paper.pdf)] </sub> 
 
 Work in progress  
 + Fillon, "The biophysical channels of climate impacts" <sub> [[pdf](https://RomainFillon.github.io/files/JMP_spatial.pdf), updates in prep.] </sub>
 + Fillon, Jean, "The biodiversity multiplier: spatial heterogeneity in the social cost of carbon"  <sub> [upon request] </sub>
-+ Fillon, "emperature impacts: natural variability vs carbon concentration"
++ Fillon, "Temperature impacts: natural variability vs carbon concentration"
