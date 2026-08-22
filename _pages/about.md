@@ -25,7 +25,7 @@ Research work
 + Fillon, "Revisiting the global distribution of climate damages"  <sub> [upon request] </sub>
 + Fillon, <a href="https://www.centre-cired.fr/celine-guivarch/" style="color: black;">Guivarch</a>, <a href="https://www.nicolastaconet.com/home" style="color: black;">Taconet</a>, 2023. ["Optimal climate policy under tipping risk and temporal risk aversion"](https://www.sciencedirect.com/science/article/pii/S0095069623000682), *Journal* *of* *Environmental* *Economics* *and* *Management* <sub> [[code](https://github.com/CIRED/DSCE/tree/main), [coverage](https://e-axes.org/research/optimal-climate-policies-with-tipping-and-temporal-risk/), [pdf](https://RomainFillon.github.io/files/editable_paper.pdf)] </sub> 
 
-Work in progress  
+Selected work in progress  
 + Fillon, "The biophysical channels of climate impacts" <sub> [[pdf](https://RomainFillon.github.io/files/JMP_spatial.pdf), updates in prep.] </sub>
 + Fillon, Jean, "The biodiversity multiplier: spatial heterogeneity in the social cost of carbon"  <sub> [upon request] </sub>
 + Fillon, "Temperature impacts: natural variability vs carbon concentration"
