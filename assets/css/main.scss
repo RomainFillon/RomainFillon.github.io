@@ -45,3 +45,21 @@ html,
 html body {
   font-size: 14px !important;
 }
+
+/* Page plus large */
+#main { max-width: 1500px; }
+
+@media (min-width: 925px) {
+  .sidebar { width: 22%; margin-right: 3%; }
+  .page    { width: 75%; padding-left: 0; padding-right: 0; }
+}
+
+/* Photo plus grande et carrée */
+.author__avatar img {
+  width: 100%;
+  max-width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: center 20%;
+  border-radius: 0;
+}
