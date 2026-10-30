@@ -24,7 +24,7 @@ I hold a PhD ([manuscript](https://RomainFillon.github.io/files/thesis_RF2.pdf))
 + Fillon, "Pricing risk at a boundary", 2026  <sub> [[code](https://github.com/RomainFillon/tipping), [pdf](https://RomainFillon.github.io/files/paper_tipping.pdf)] </sub>
 + Fillon, <a href="https://mlinsenmeier.com/" style="color: black;">Linsenmeier</a>, <a href="https://gwagner.com" style="color: black;">Wagner</a>, "Climate shift uncertainty and economic damages", 2026 <sub> [[code](https://github.com/RomainFillon/climateshift/tree/main), [pdf](https://www.ifo.de/en/cesifo/publications/2025/working-paper/climate-shift-uncertainty-and-economic-damages)] </sub>
 
-### Working papers <sub>(drafts available upon request)</sub>
+### Working papers available upon request
 + Fillon, <a href="https://scholar.google.fr/citations?user=HyoU4ZwAAAAJ&hl=fr&oi=ao" style="color: black;">Avner</a>, <a href="https://scholar.google.fr/citations?user=7xxEWRkAAAAJ&hl=fr&oi=ao" style="color: black;">Hallegatte</a>, "Who gains from flood protection?", 2026
 + Fillon, "The spatial scale of climate damages", 2026
 
