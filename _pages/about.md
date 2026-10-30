@@ -33,4 +33,4 @@ I hold a PhD ([manuscript](https://RomainFillon.github.io/files/thesis_RF2.pdf))
 + Fillon, "Is past natural climate variability a good proxy for future warming from carbon concentration?"
 
 ### Earlier versions
-+ Fillon, "The biophysical channels of climate impacts" <sub> [[pdf](https://RomainFillon.github.io/files/JMP_spatial.pdf)] </sub>, superseded by "Revisiting the global distribution of climate damages" and "The spatial scale of climate damages"
++ Fillon, "The biophysical channels of climate impacts", 2024 <sub> [[pdf](https://RomainFillon.github.io/files/JMP_spatial.pdf)] </sub>, superseded by "Revisiting the global distribution of climate damages" and "The spatial scale of climate damages"
