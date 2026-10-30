@@ -26,7 +26,7 @@ I hold a PhD ([manuscript](https://RomainFillon.github.io/files/thesis_RF2.pdf))
 + Fillon, "The spatial scale of climate damages", 2026
 
 ### Publications
-+ Fillon, <a href="https://www.centre-cired.fr/celine-guivarch/" style="color: black;">Guivarch</a>, <a href="https://www.nicolastaconet.com/home" style="color: black;">Taconet</a>, 2023. ["Optimal climate policy under tipping risk and temporal risk aversion"](https://www.sciencedirect.com/science/article/pii/S0095069623000682), *Journal of Environmental Economics and Management* <sub> [[code](https://github.com/CIRED/DSCE/tree/main), [coverage](https://e-axes.org/research/optimal-climate-policies-with-tipping-and-temporal-risk/), [pdf](https://RomainFillon.github.io/files/editable_paper.pdf)] </sub>
++ Fillon, <a href="https://www.centre-cired.fr/celine-guivarch/" style="color: black;">Guivarch</a>, <a href="https://scholar.google.fr/citations?user=qTuNCCMAAAAJ&hl=fr&oi=ao" style="color: black;">Taconet</a>, 2023. ["Optimal climate policy under tipping risk and temporal risk aversion"](https://www.sciencedirect.com/science/article/pii/S0095069623000682), *Journal of Environmental Economics and Management* <sub> [[code](https://github.com/CIRED/DSCE/tree/main), [coverage](https://e-axes.org/research/optimal-climate-policies-with-tipping-and-temporal-risk/), [pdf](https://RomainFillon.github.io/files/editable_paper.pdf)] </sub>
 
 ### Selected work in progress
 + Fillon, "Distributional spatial integrated assessment models: an application to Europe"
