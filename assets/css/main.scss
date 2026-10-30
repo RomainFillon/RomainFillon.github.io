@@ -71,3 +71,17 @@ html body {
 
 /* Titres de section en petites capitales grises */
 .page__content h3 { font-size: 0.85em; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; color: #6b7280; margin: 1.8em 0 0.4em; }
+
+/* Téléphone : photo plus grande, Follow sous « PhD in Economics » */
+@media (max-width: 924px) {
+  .sidebar [itemscope] {
+    display: grid;
+    grid-template-columns: 150px 1fr;
+    column-gap: 18px;
+    align-items: start;
+  }
+  .author__avatar         { grid-column: 1; grid-row: 1 / span 2; width: 150px; }
+  .author__content        { grid-column: 2; grid-row: 1; padding: 0; align-self: end; }
+  .author__urls-wrapper   { grid-column: 2; grid-row: 2; margin-top: 10px; }
+  .author__urls           { left: 0; right: auto; }
+}
