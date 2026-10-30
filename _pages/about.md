@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome ! I am a macroeconomist with a PhD ([manuscript](https://RomainFillon.github.io/files/thesis_RF2.pdf)) from Université Paris-Saclay ([CIRED](http://www.centre-cired.fr/en/), [PSAE](https://www6.versailles-grignon.inrae.fr/psae_eng/)), awarded in December 2024. You can find my [CV](https://RomainFillon.github.io/files/academic_CV_2025.pdf) and contact me via <a href="mailto:rfillon@protonmail.com">e-mail</a>. My research focuses on climate change and climate uncertainties. I use dynamic quantitative spatial models and dynamic stochastic models.
+Welcome ! I am a macroeconomist with a PhD ([manuscript](https://RomainFillon.github.io/files/thesis_RF2.pdf)) from Université Paris-Saclay ([CIRED](http://www.centre-cired.fr/en/), [PSAE](https://www6.versailles-grignon.inrae.fr/psae_eng/)). You can find my [CV](https://RomainFillon.github.io/files/academic_CV_2025.pdf) and contact me via <a href="mailto:rfillon@protonmail.com">e-mail</a>. My research focuses on climate change impacts and climate uncertainties. I use dynamic quantitative spatial models and dynamic stochastic models.
 
 I am on the 2026-2027 academic job market.
 
