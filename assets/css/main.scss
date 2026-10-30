@@ -63,3 +63,8 @@ html body {
   object-position: center 20%;
   border-radius: 0;
 }
+
+/* Texte sous la photo plus grand */
+.sidebar .author__name { font-size: 1.45em; }   /* « Romain Fillon » */
+.sidebar .author__bio  { font-size: 1.05em; }   /* « PhD in Economics » */
+.sidebar .author__urls li { font-size: 1em; }   /* Paris, France / Github / Google Scholar */
