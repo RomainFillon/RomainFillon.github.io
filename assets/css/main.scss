@@ -68,3 +68,6 @@ html body {
 .sidebar .author__name { font-size: 1.45em; }   /* « Romain Fillon » */
 .sidebar .author__bio  { font-size: 1.05em; }   /* « PhD in Economics » */
 .sidebar .author__urls li { font-size: 1em; }   /* Paris, France / Github / Google Scholar */
+
+/* Titres de section en petites capitales grises */
+.page__content h3 { font-size: 0.85em; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; color: #6b7280; margin: 1.8em 0 0.4em; }
