@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome ! I am a macroeconomist with a PhD ([manuscript](https://RomainFillon.github.io/files/thesis_RF2.pdf), [slides](https://RomainFillon.github.io/files/soutenance_rfillon_online.pdf)) from Université Paris-Saclay ([CIRED](http://www.centre-cired.fr/en/), [PSAE](https://www6.versailles-grignon.inrae.fr/psae_eng/)), awarded in December 2024. You can find my [CV](https://RomainFillon.github.io/files/academic_CV_2025.pdf) and contact me via <a href="mailto:rfillon@protonmail.com">e-mail</a>. My research focuses on climate change and climate uncertainties. I use dynamic quantitative spatial models and dynamic stochastic models.
+Welcome ! I am a macroeconomist with a PhD ([manuscript](https://RomainFillon.github.io/files/thesis_RF2.pdf)) from Université Paris-Saclay ([CIRED](http://www.centre-cired.fr/en/), [PSAE](https://www6.versailles-grignon.inrae.fr/psae_eng/)), awarded in December 2024. You can find my [CV](https://RomainFillon.github.io/files/academic_CV_2025.pdf) and contact me via <a href="mailto:rfillon@protonmail.com">e-mail</a>. My research focuses on climate change and climate uncertainties. I use dynamic quantitative spatial models and dynamic stochastic models.
 
 I am on the 2026-2027 academic job market.
 
@@ -23,7 +23,7 @@ Research work
 + Fillon, <a href="https://mlinsenmeier.com/" style="color: black;">Linsenmeier</a>, <a href="https://gwagner.com" style="color: black;">Wagner</a>, "Climate shift uncertainty and economic damages" <sub> [[code](https://github.com/RomainFillon/climateshift/tree/main), [pdf](https://www.ifo.de/en/cesifo/publications/2025/working-paper/climate-shift-uncertainty-and-economic-damages), submitted] </sub>
 + Fillon, "Revisiting the global distribution of climate damages"  <sub>  [[code](https://github.com/RomainFillon/JMP2425), [pdf](https://RomainFillon.github.io/files/JMP_V11.pdf), submitted] </sub>
 + Fillon, <a href="https://scholar.google.fr/citations?user=HyoU4ZwAAAAJ&hl=fr&oi=ao" style="color: black;">Avner</a>, <a href="https://scholar.google.fr/citations?user=7xxEWRkAAAAJ&hl=fr&oi=ao" style="color: black;">Hallegatte</a>, "Who gains from flood protection?" <sub> [upon request] </sub>  
-+ Fillon, "The spatial scale of climate damages" <sub> [upon request] </sub>  
++ Fillon, "The spatial scale of climate damages" <sub> [upon request] </sub>   
 + Fillon, <a href="https://www.centre-cired.fr/celine-guivarch/" style="color: black;">Guivarch</a>, <a href="https://www.nicolastaconet.com/home" style="color: black;">Taconet</a>, 2023. ["Optimal climate policy under tipping risk and temporal risk aversion"](https://www.sciencedirect.com/science/article/pii/S0095069623000682), *Journal* *of* *Environmental* *Economics* *and* *Management* <sub> [[code](https://github.com/CIRED/DSCE/tree/main), [coverage](https://e-axes.org/research/optimal-climate-policies-with-tipping-and-temporal-risk/), [pdf](https://RomainFillon.github.io/files/editable_paper.pdf)] </sub> 
 
 Selected work in progress  
