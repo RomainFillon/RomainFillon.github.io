@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a macroeconomist working on the economic impacts of climate change and climate uncertainty, using dynamic quantitative spatial models and dynamic stochastic models. **I am on the 2026–2027 academic job market.**
+Welcome! I am a macroeconomist working on the economic impacts of climate change and climate uncertainty, using dynamic quantitative spatial models and dynamic stochastic models. **I am on the 2026–2027 academic job market.**  You can find my [CV](https://RomainFillon.github.io/files/academic_CV_2025.pdf) and contact me via <a href="mailto:rfillon@protonmail.com">e-mail</a>.
 
-I hold a PhD ([manuscript](https://RomainFillon.github.io/files/thesis_RF2.pdf)) from Université Paris-Saclay ([CIRED](http://www.centre-cired.fr/en/), [PSAE](https://www.centre-cired.fr/en/home/)), awarded in December 2024. My thesis received two awards: the [best European dissertation in environmental and resource economics](https://www.eaere.org/best-european-doctoral-dissertation-award/) (EAERE, co-recipient) and the [first prize for the best economics dissertation in Paris](https://www.sorbonne.fr/la-chancellerie-des-universites-de-paris/v2la-chancellerie-des-universites-de-paris-recompense-lexcellence-universitaire-et-propose-des-prix/les-prix-universitaires/). You can find my [CV](https://RomainFillon.github.io/files/academic_CV_2025.pdf) and contact me via <a href="mailto:rfillon@protonmail.com">e-mail</a>.
+I hold a PhD ([manuscript](https://RomainFillon.github.io/files/thesis_RF2.pdf)) from Université Paris-Saclay ([CIRED](http://www.centre-cired.fr/en/), [PSAE](https://www.centre-cired.fr/en/home/)), awarded in December 2024. My thesis received two awards: the [best European dissertation in environmental and resource economics](https://www.eaere.org/best-european-doctoral-dissertation-award/) (EAERE, co-recipient) and the [first prize for the best economics dissertation in Paris](https://www.sorbonne.fr/la-chancellerie-des-universites-de-paris/v2la-chancellerie-des-universites-de-paris-recompense-lexcellence-universitaire-et-propose-des-prix/les-prix-universitaires/).
 
 ### Job market paper
 + Fillon, "The spatial climate risk premium: an application to Europe", 2026  <sub> [upon request] </sub>
