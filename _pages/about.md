@@ -34,4 +34,4 @@ Selected work in progress
 + Fillon, "Is past natural climate variability a good proxy for future warming from carbon concentration?"
 
 Old papers
-+ Fillon, "The biophysical channels of climate impacts" <sub> [[pdf](https://RomainFillon.github.io/files/JMP_spatial.pdf)], replaced by ""Revisiting the global distribution of climate damages" and "The spatial scale of climate damages" </sub>  
++ Fillon, "The biophysical channels of climate impacts" <sub> [[pdf](https://RomainFillon.github.io/files/JMP_spatial.pdf)] </sub>, replaced by "Revisiting the global distribution of climate damages" and "The spatial scale of climate damages" 
