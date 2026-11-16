@@ -58,9 +58,9 @@ html body {
 .author__avatar img {
   width: 100%;
   max-width: 100%;
-  aspect-ratio: 1 / 1;
+  aspect-ratio: 4 / 5;
   object-fit: cover;
-  object-position: center 20%;
+  object-position: center bottom;
   border-radius: 0;
 }
 
