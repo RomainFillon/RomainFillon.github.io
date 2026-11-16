@@ -13,7 +13,7 @@ Welcome! I am a macroeconomist working on the economic impacts of climate change
 I hold a PhD ([manuscript](https://RomainFillon.github.io/files/thesis_RF2.pdf)) from Université Paris-Saclay ([CIRED](http://www.centre-cired.fr/en/), [PSAE](https://psae-saclay.fr/en/)), awarded in December 2024. My thesis received two awards: the [best European dissertation in environmental and resource economics](https://www.eaere.org/best-european-doctoral-dissertation-award/) (EAERE, co-recipient) and the [first prize for the best economics dissertation in Paris](https://www.sorbonne.fr/la-chancellerie-des-universites-de-paris/v2la-chancellerie-des-universites-de-paris-recompense-lexcellence-universitaire-et-propose-des-prix/les-prix-universitaires/).
 
 ### Job market paper
-+ Fillon, "The spatial climate risk premium: an application to Europe", 2026  <sub> [pdf](https://RomainFillon.github.io/files/JMP2627.pdf)] </sub>
++ Fillon, "The spatial climate risk premium: an application to Europe", 2026  <sub> [[pdf](https://RomainFillon.github.io/files/JMP2627.pdf)] </sub>
 
 ### Submitted papers
 + Fillon, "Revisiting the global distribution of climate damages", 2026  <sub>  [[code](https://github.com/RomainFillon/JMP2425), [pdf](https://RomainFillon.github.io/files/JMP_V11.pdf)] </sub> 
