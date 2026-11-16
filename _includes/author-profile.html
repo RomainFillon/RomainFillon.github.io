@@ -15,22 +15,16 @@
   </div>
 
   <style>
-    .author__credit { display: none; }
-    .author__avatar img { border-radius: 0; }
-    @media (min-width: 1200px) {
-      .author__avatar { display: table; }
-      .author__avatar img { display: block; }
-      .author__credit {
-        display: table-caption;
-        caption-side: bottom;
-        margin: 0;
-        padding-top: 2px;
-        text-align: right;
-        font-size: 0.65em;
-        font-style: italic;
-        line-height: 1.2;
-        white-space: nowrap;
-      }
+    .author__avatar { container-type: inline-size; }
+    .author__avatar img { display: block; }
+    .sidebar .author__credit {
+      margin: 2px 0 0;
+      text-align: right;
+      font-style: italic;
+      line-height: 1.2;
+      white-space: nowrap;
+      font-size: 0.65em;
+      font-size: clamp(9px, 3.4cqw, 13px);
     }
   </style>
 
