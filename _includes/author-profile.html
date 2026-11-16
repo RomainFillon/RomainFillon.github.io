@@ -12,7 +12,24 @@
     {% else %}
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
+        <a class="author__credit" href="https://www.instagram.com/charlotte.frgt/" target="_blank" rel="noopener">charlotte.frgt</a>
   </div>
+
+
+    <style>
+    .author__credit { display: none; }
+    @media (min-width: 1200px) {
+      .author__credit {
+        display: block;
+        max-width: 175px;
+        margin-top: -4px;
+        text-align: center;
+        font-size: 0.65em;
+        font-style: italic;
+        line-height: 1.2;
+      }
+    }
+  </style>
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
